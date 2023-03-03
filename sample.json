@@ -1,0 +1,165 @@
+{
+  "status": "ok",
+  "totalResults": 15,
+  "articles": [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBS News",
+      "title": "NCA: Entrepreneurship through Acquisition",
+      "description": "Solving succession challenges of small and medium businesses",
+      "url": "https://www.cbsnews.com/video/nca-entrepreneurship-through-acquisition/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/16/e51a229a-07e9-4811-8cf1-4c977cd06de7/thumbnail/1200x630/67eb9a56ee047d9b3b17047b1c88a014/0116-davos-novastone-uk-cbsdav039-pm-20221107-1622455-640x360.jpg",
+      "publishedAt": "2023-01-16T10:00:34+00:00",
+      "content": "Solving succession challenges of small and medium businesses"
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Lenin Ndebele",
+      "title": "World Economic Forum: What's in it for Africa this year?",
+      "description": "The first big global meeting that brings together leaders from government, business, and civil society to address the state of the world and discuss priorities, the World Economic Forum, kicks off this week in Davos, Switzerland.",
+      "url": "https://www.news24.com/news24/africa/news/world-economic-forum-whats-in-it-for-africa-this-year-20230116",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3687/dd8676b74b65487390b39d8355e3fc7b.jpg",
+      "publishedAt": "2023-01-16T09:48:36+00:00",
+      "content": "<ul><li>Although President Cyril Ramaphosa will not going Davos for the World Economic Forum, South Africa will be the most represented African country there.</li><li>Exploration on how global busine… [+5108 chars]"
+    },
+    {
+      "source": { "id": "gruenderszene", "name": "Gruenderszene" },
+      "author": null,
+      "title": "Secondhand-Millionär: In diesen Startups steckt das Geld von Christian Wegner",
+      "description": "Die Gründung des Online-Marktplatz Momox machte Christian Wegner zum Millionär. Sein Vermögen hofft er nun als Business Angel zu vermehren.",
+      "url": "https://www.businessinsider.de/gruenderszene/perspektive/portfolio-check-momox-gruender-christian-wegner/",
+      "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2022/06/Christian-Wegner-3.jpg?ver=1655888925",
+      "publishedAt": "2023-01-16T07:00:00+00:00",
+      "content": "Secondhand-Millionär: In diesen Startups steckt das Geld von Christian Wegner\r\nMit gebrauchten Büchern wurde Momox-Gründer Christian Wegner zum Millionär. Sein Vermögen will er nun als Business Angel… [+1293 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Manish Singh",
+      "title": "Indian edtech giant Byju’s changes sales strategy in key revamp",
+      "description": "Indian edtech giant Byju’s is moving away from a business practice that attracted criticism over the years.",
+      "url": "https://techcrunch.com/2023/01/15/indian-edtech-giant-byjus-changes-sales-strategy-in-key-revamp/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1132893022.jpg?resize=1200,800",
+      "publishedAt": "2023-01-16T06:17:20Z",
+      "content": "Byjus has made a key change in its sales strategy, moving away from a business practice that attracted the edtech giant criticism over the years.\r\nThe Bengaluru-headquartered startup, Indias most val… [+2522 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Stephen Foley",
+      "title": "Top global companies write down billions as deals make way for gloom",
+      "description": "With higher costs owing to inflation and a weaker outlook for demand, many recently acquired businesses may struggle to justify their valuations.",
+      "url": "http://www.afr.com/policy/economy/top-global-companies-write-down-billions-as-deals-make-way-for-gloom-20230116-p5ccv6",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2502%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_20%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/c7b605d8945e53bf9e94731347b05aaa017e8785",
+      "publishedAt": "2023-01-16T04:41:22Z",
+      "content": "Its a pretty deadly combination, said Jasmeet Singh Marwah, managing director at Stout, a valuation services company. For many businesses...they made the acquisition and the performance has not been … [+3951 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Gillian Tett",
+      "title": "Gillian Tett: Executives ill-equipped to deal with 2023’s big risks",
+      "description": "Business leaders are contending with a baffling world that most do not have the experience to analyse.",
+      "url": "http://www.afr.com/policy/economy/executives-ill-equipped-to-deal-with-2023-s-big-risks-20230115-p5ccl2",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3703%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_311%2C$y_271/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/c8939d4e2b244ce5a1ec54a09808e0558b398541",
+      "publishedAt": "2023-01-14T21:26:53Z",
+      "content": "Why has this second-hand pessimism developed? The chamber, in its role as a lobbying group, primarily blames it on Americas politicians.\r\nAmerican business is fed up [with Washington]...due to its po… [+3688 chars]"
+    },
+    {
+      "source": { "id": "the-irish-times", "name": "The Irish Times" },
+      "author": "Caroline Madden",
+      "title": "‘We couldn’t have our lifestyle here in Ireland. It would cost us too much’",
+      "description": "If you’re feeling in a new year state of mind, then a new home - and a new business - could be the change you’re looking for",
+      "url": "https://www.irishtimes.com/property/interiors/2023/01/14/we-couldnt-have-our-lifestyle-here-in-ireland-it-would-cost-us-too-much/",
+      "urlToImage": "https://www.irishtimes.com/resizer/0E8u0vP-F6eediy6hiz1cMsa-wk=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/L2CHRBDU4BEWHIFI6HIZENZNQA.jpg",
+      "publishedAt": "2023-01-14T05:00:01Z",
+      "content": "The new year brings the possibility of a fresh start, so what better time to think about making exciting life changes? Here we take a look at businesspeople who are moving on to pastures new, thus op… [+5815 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "Mike Glenn",
+      "title": "Russia's Wagner Group mercenaries in the thick of fight",
+      "description": "The Wagner Group, the shadowy mercenary army controlled by a Russian business magnate known as \"Putin's chef,\" has used one of the fiercest battles of the 11-month-old Ukraine invasion to insert itself into the fight and raise its profile abroad and its polit…",
+      "url": "https://www.washingtontimes.com/news/2023/jan/13/russias-wagner-group-mercenaries-thick-fight/",
+      "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2023/01/13/Russia_Ukraine_15000_c0-187-3153-2026_s1200x700.jpg?313d7a2168344d8291737a1a4d2f0743b916c83e",
+      "publishedAt": "2023-01-13T12:59:28Z",
+      "content": "The Wagner Group, the shadowy mercenary army controlled by a Russian business magnate known as “Putin‘s chef,” has used one of the fiercest battles of the 11-month-old Ukraine invasion to insert itse… [+8055 chars]"
+    },
+    {
+      "source": { "id": "next-big-future", "name": "Next Big Future" },
+      "author": "Brian Wang",
+      "title": "Peter Zeihan Made-up and False Claims About EVs for His Business | NextBigFuture.com",
+      "description": "Peter Zeihan made a series of mostly unsupported and false claims about electric vehicles while being interviewed on the Joe Rogan show.",
+      "url": "https://www.nextbigfuture.com/2023/01/peter-zeihan-made-up-and-false-claims-about-evs-for-his-business.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/01/Screen-Shot-2023-01-09-at-2.30.12-PM.jpg",
+      "publishedAt": "2023-01-12T19:05:49Z",
+      "content": "Peter Zeihan made a series of mostly unsupported and false claims about electric vehicles while being interviewed on the Joe Rogan show.\r\nJames Stephenson goes through all of the over forty aspects o… [+5829 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Jason Nichols",
+      "title": "Newsweek",
+      "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+      "url": "https://www.newsweek.com/",
+      "urlToImage": "https://d.newsweek.com/en/full/2177067/comp-image-military-cadets-putin.jpg",
+      "publishedAt": "2023-01-12T13:22:38.0882552Z",
+      "content": null
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "Financial Post",
+      "description": "Read through unique Editorials and Business &amp; Finance columns from our top editors covering current events.",
+      "url": "http://business.financialpost.com/category/opinion/",
+      "urlToImage": "https://dcs-static.gprod.postmedia.digital/12.2.3/websites/images/postmedia-image-fallback.png",
+      "publishedAt": "2022-11-13T00:37:38.6606149Z",
+      "content": null
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "Financial Post",
+      "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+      "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+      "urlToImage": "https://dcs-static.gprod.postmedia.digital/12.2.3/websites/images/postmedia-image-fallback.png",
+      "publishedAt": "2022-11-13T00:37:35.7082248Z",
+      "content": null
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": null,
+      "title": "‘Money is no object’: Ghislaine Maxwell trial shines light on class divide",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/0b9d93da-1687-4eb1-bd53-0a84a1b40dff",
+      "urlToImage": null,
+      "publishedAt": "2021-12-14T06:22:29.1165883Z",
+      "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": null,
+      "title": "Need relief from the stress of screen time? There’s an app for that",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/221cf7c4-56e7-4c7e-b6c0-cc3737da0330",
+      "urlToImage": null,
+      "publishedAt": "2021-12-14T06:22:27.4295096Z",
+      "content": "Let our global subject matter experts broaden your perspective with timely insights and opinions you\r\ncant find anywhere else."
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "News",
+      "description": "Latest breaking business news &amp; headlines. Stay in touch with the latest happenings in Local and International organizations and financial sector.",
+      "url": "http://business.financialpost.com/category/news/",
+      "urlToImage": null,
+      "publishedAt": "2020-07-09T18:37:17.5638279Z",
+      "content": "Visit the Postmedia Brands page\r\n365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n© 2020 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmis… [+41 chars]"
+    }
+  ]
+}
